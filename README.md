@@ -26,11 +26,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://dev.to/neha5630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kshitij2900" height="30" width="40" /></a>
+  <a href="https://dev.to/neha5630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@Neha5630" height="30" width="40" /></a>
 &emsp;
-  <a href="https://hashnode.com/@Neha5630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="/@kshitij2900" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@Neha5630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="/@Neha5630" height="30" width="40" /></a>
 &emsp;
-  <a href="https://twitter.com/NehaYad28318784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitij58335402" height="30" width="40" /></a>
+  <a href="https://twitter.com/NehaYad28318784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NehaYad28318784" height="30" width="40" /></a>
 &emsp;
   <a href="https://stackoverflow.com/users/21898105/neha-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21898105" height="30" width="40" /></a>
 &emsp;
